@@ -1,0 +1,21 @@
+# Vivado-generated files and folders
+*.jou
+*.log
+*.backup.*
+*.cache
+*.xpr
+*.srsc/
+*.ip_user_files/
+*.sim/
+*.webtalk/
+*.runs/
+*.hw/
+*.ipdef/
+*.str/
+*.xdc
+*.xml
+*.tcl
+*.wcfg
+*.xsa
+*.xgui
+
